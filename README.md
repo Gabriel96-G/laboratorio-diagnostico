@@ -2,7 +2,7 @@
 
 Autor: Alejandro Medrano Ruiz
 
-Curso: Diseño y Programación Web
+Curso: Proyecto Integrador 1
 
 Parte 1: construcción de una página desde cero.
 
